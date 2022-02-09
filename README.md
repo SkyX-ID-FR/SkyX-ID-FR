@@ -1,3 +1,4 @@
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/cover.jpg)
 ### Hey ! 👋
 
 Here are some ideas to get you started:
