@@ -9,10 +9,6 @@
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/1cyinrp22lgifg711zgvp68sv" target="_blank">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 <br><br>
 Salut ! Moi c'est Skyx et toi ? Je joue tellement avec le hacking et le code, au tel point, que pour moi, c'est devenu un art... <br>
 
