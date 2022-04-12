@@ -10,7 +10,7 @@
 </a>
 
 <br><br>
-Salut ! Moi c'est Skyx et toi ? Je joue tellement avec le hacking et le code, au tel point, que pour moi, c'est devenu un art... <br>
+Salut ! Moi c'est Skyx et toi ? Je joue tellement avec le code, au tel point, que pour moi, c'est devenu un art... <br>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
