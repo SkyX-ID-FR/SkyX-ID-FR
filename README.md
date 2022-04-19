@@ -1,5 +1,5 @@
 <!-- <img align="right" alt="GIF" style="border-radius:50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-<h1>Salut ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+<h1>Salut, moi c'est SkyX ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
 
 <a href="https://discord.gg/RJTkQD8Wbz" target="_blank">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
