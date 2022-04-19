@@ -1,5 +1,11 @@
-<!-- <img align="right" alt="GIF" style="border-radius:50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-<h1>Hey ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+<img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<h1>Hey, moi c'est SkyX ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+
+- 🇫🇷 Dévellopeur Français Fullstack Web & System.
+- 🛠️ Petite expérience de Sysadmin/Dev-Ops sur ``Google Cloud Plateform`` ainsi que sur ``Firebase``.
+- 📦 Dévellopeur Linux & Windows (languages natifs) > ``Bash`` et ``Batch``.
+<br>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -12,7 +18,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
   <img alt="Vscode Editor" src="https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff"/>
-  <img alt="Vscode Editor" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=C# .net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=C# .net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flate-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flate-square&logo=c%2B%2B&logoColor=white"/>
