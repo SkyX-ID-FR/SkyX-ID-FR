@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flate-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flate-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flate-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flate-square&logo=ubuntu&logoColor=white"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flate-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flate-square&logo=windows&logoColor=white"/>
 </p>
 
 # Contact :
@@ -38,4 +40,5 @@
   <a href="https://twitter.com/SkyX89345423/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flate-square&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/SkyX-ID-FR" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flate-square&logo=github&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/1cyinrp22lgifg711zgvp68sv" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=fflate-square&logo=spotify&logoColor=white"/></a>
+  <a href="https://discord.gg/2Hh8zjvdZW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
