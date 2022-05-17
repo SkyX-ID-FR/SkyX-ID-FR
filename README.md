@@ -6,7 +6,7 @@
 - 🛠️ Petite expérience de Sysadmin/Dev-Ops sur ``Google Cloud Plateform`` ainsi que sur ``Firebase``.
 - 📦 Dévellopeur Linux & Windows (languages natifs) > ``Bash`` et ``Batch``.
 
-<h2>Voilà les languages/plateformes/frameworks que j'utilise pour le DEV :</h2> 
+<h2>Voici quelques languages/plateformes/frameworks que j'ai pu utiliser au sein de mon expérience :</h2> 
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
