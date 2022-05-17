@@ -5,7 +5,7 @@
 - 🇫🇷 Dévellopeur Français Fullstack Web & System.
 - 🛠️ Petite expérience de Sysadmin/Dev-Ops sur ``Google Cloud Plateform`` ainsi que sur ``Firebase``.
 - 📦 Dévellopeur Linux & Windows (languages natifs) > ``Bash`` et ``Batch``.
-<br>
+
 <h2>Voilà les languages/plateformes/frameworks que j'utilise pour le DEV :</h2> 
 
 <p>
@@ -24,12 +24,12 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flate-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flate-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flate-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flate-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flate-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flate-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flate-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flate-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flate-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flate-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flate-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flate-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flate-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flate-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flate-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flate-square&logo=ubuntu&logoColor=white"/>
 </p>
 
