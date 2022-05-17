@@ -40,5 +40,5 @@
   <a href="https://twitter.com/SkyX89345423/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flate-square&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/SkyX-ID-FR" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flate-square&logo=github&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/1cyinrp22lgifg711zgvp68sv" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=fflate-square&logo=spotify&logoColor=white"/></a>
-  <a href="https://discord.gg/2Hh8zjvdZW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/2Hh8zjvdZW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flate-square&logo=discord&logoColor=white"/></a>
 </p>
