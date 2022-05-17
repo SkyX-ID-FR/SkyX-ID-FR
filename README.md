@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flate-square&logo=windows&logoColor=white"/>
 </p>
 
-# Contact :
+# Mes contacts :
 <p>
   <a href="https://twitter.com/SkyX89345423/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flate-square&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/SkyX-ID-FR" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flate-square&logo=github&logoColor=white" /></a>
