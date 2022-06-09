@@ -1,6 +1,6 @@
 <!-- <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/> --> 
 
-<h1>Hey, moi c'est SkyX ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
+<h1>Hey, moi c'est SkyX ! </h1> 
 
 - 🇫🇷 Dévellopeur Français Fullstack Web & System.
 - 🛠️ Petite expérience de Sys-Admin/Dev-Ops sur ``Google Cloud Plateform`` ainsi que sur ``Firebase``.
