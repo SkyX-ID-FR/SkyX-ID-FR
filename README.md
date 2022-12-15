@@ -3,7 +3,7 @@
 <h1>Hey, moi c'est SkyX ! </h1> 
 
 - 🇫🇷 Dévellopeur Français Fullstack Web & System.
-- 🛠️ Petite expérience de Sys-Admin/Dev-Ops sur ``Google Cloud Plateform`` ainsi que sur ``Firebase``.
+- 🛠️ Expérience de Sys-Admin/Dev-Ops sur ``Google Cloud Plateform`` ainsi que sur ``Firebase``.
 - 📦 Dévellopeur Linux & Windows (languages natifs) > ``Bash`` et ``Batch``.
 
 <h2>Voici quelques languages/plateformes/environments que j'ai pu utiliser au sein de mon expérience :</h2> 
