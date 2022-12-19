@@ -9,7 +9,7 @@
 <h2>Voici quelques languages et plateformes que j'ai pu utiliser au sein de mon expérience :</h2> 
 
 <p>
-  <img alt="React JS" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React JS" src="https://img.shields.io/badge/-ReactJS-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
