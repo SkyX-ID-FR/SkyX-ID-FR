@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flate-square&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flate-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flate-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flate-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flate-square&logo=windows&logoColor=white"/>
 </p>
 
 # Mes contacts :
