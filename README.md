@@ -2,7 +2,7 @@
 
 <h1>Hey 👋, moi c'est Louis ! </h1> 
 
-- 🇫🇷 Dévellopeur Français Fullstack Web & System.
+- 🇫🇷 Développeur Français Fullstack Web & System.
 - 🛠️ Expérience de Sys-Admin/Dev-Ops sur _Google Cloud Plateform_ ainsi que sur _Firebase_.
 - 📦 Développeur Linux & Windows (languages natifs) > ``Bash`` et ``Batch``.<br/><br/>
 
