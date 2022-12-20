@@ -4,7 +4,7 @@
 
 - 🇫🇷 Développeur Français Fullstack Web & System.
 - 🛠️ Expérience de Sys-Admin/Dev-Ops sur _Google Cloud Plateform_ ainsi que sur _Firebase_.
-- 📦 Développeur Linux & Windows (languages natifs) > ``Bash`` et ``Batch``.<br/><br/>
+- 📦 Développeur Linux & Windows (languages natifs) > _Bash_ et _Batch_.<br/><br/>
 
 ![louis_github_stats1](https://github-readme-stats.vercel.app/api?username=SkyX-ID-FR&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![louis_github_stats2](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SkyX-ID-FR&layout=compact&langs_count=8&hide_border=true)
