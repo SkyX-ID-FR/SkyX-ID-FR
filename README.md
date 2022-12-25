@@ -13,5 +13,5 @@
   <a href="https://github.com/SkyX-ID-FR" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flate-square&logo=github&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/1cyinrp22lgifg711zgvp68sv" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=fflate-square&logo=spotify&logoColor=white"/></a>
   <a href="https://discord.gg/2Hh8zjvdZW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flate-square&logo=discord&logoColor=white"/></a>
-  <a href="mailto: marmonier7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-marmonier7%40gmail.com-red"/></a>
+  <a href="mailto: skyx-fr@pm.me" target="_blank"><img src="https://img.shields.io/badge/Email-skyx-fr%40pm.me-red"/></a>
 </p>
