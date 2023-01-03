@@ -2,7 +2,7 @@
 
 # Salut, moi c'est Skyx ! 👋
 - 🇫🇷 Développeur Français Fullstack Web & System.
-- 🛠️ Expérience de Sys-Admin/Dev-Ops sur _Google Cloud Plateform_ ainsi que sur _Firebase_.
+- 🛠️ Petite Expérience de Sys-Admin sur _Google Cloud Plateform_ ainsi que sur _Firebase_.
 - 📦 Développeur Linux & Windows (languages natifs) > _Bash_ et _Batch_.<br/><br/>
 
 ![Github_stats_1](https://github-readme-stats.vercel.app/api?username=SkyX-ID-FR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
