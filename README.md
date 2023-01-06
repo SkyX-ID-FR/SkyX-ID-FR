@@ -26,8 +26,7 @@
 <p>Voici quelques graphiques pour montrer à tous ceux qui liront ce README.md mon évolution à travers le temps sur la plateforme Github avec quelques variables, bien sûr ! 😄 
   
 <br/><p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkyX-ID-FR"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyX-ID-FR"/><br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkyX-ID-FR"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyX-ID-FR"/>
 </p>
 
