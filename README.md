@@ -37,6 +37,8 @@
   <a href="mailto: skyx-fr@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
   <a href="discordapp.com/users/790912739434168360" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="github.com/SkyX-ID-FR" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <br/>Made with ❤ by @SkyX-ID-FR !
 </p>
 
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 <!-- ![Github_stats_1](https://github-readme-stats.vercel.app/api?username=SkyX-ID-FR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
