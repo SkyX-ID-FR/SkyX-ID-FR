@@ -1,7 +1,7 @@
 ![banner_profile](https://zupimages.net/up/23/01/o7et.png)
 <h1 align="center">Salut, moi c'est Skyx ! 👋 <img src="https://img.shields.io/github/followers/yushi1007.svg?style=social&label=Follow&maxAge=2592000"/></h1>
 <p>Passionné de dev, d'INFOSEC et de cyber-sécurité depuis plus de 4 ans maintenant, je collectionne les projets solo ou en équipe. Je me spécialise dans le développement web font-end et back-end mais je touche également au dev côté machine. J'adore les nouvelles technologies comme le web3, l'IA ou encore le machine learning : tout ça me passionne plus que tout ! Si tu veux me contacter, check la dernière section sinon je te dit à bientôt ! 😊<br/>
-</p>
+</p><br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -21,6 +21,15 @@
 | ☁️ Sysadmin & Cloud : | <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=orange)"/> |
 | ❤ Mes éditeurs de code préférés : | <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/> |
 | ⌨️ Mes terminals quotidien : | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/> <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/> | 
+
+<br/><h1 align="center">📈 · Quelques graphiques · 📈</h1>
+<p>Voici quelques graphiques pour montrer à tous ceux qui liront ce README.md mon évolution à travers le temps sur la plateforme Github avec quelques variables, bien sûr ! 😄 
+  
+<br/><p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkyX-ID-FR"/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyX-ID-FR"/><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyX-ID-FR"/>
+</p>
 
 <br/><h1 align="center">📬 · Mes Contacts · 📬</h1>
 <p>Vous pouvez me contacter à n'importe quel moments, n'importes quelles heures avec les liens suivants (peut-être que je répondrais pas tout de suite si vous avez un décalage horaire avec la France). Les liens sont mis à jour et vérifiés régulièrement pour éviter toutes erreurs 404. 🤗</p><br/>
