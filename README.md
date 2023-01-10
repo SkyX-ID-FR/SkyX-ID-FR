@@ -1,5 +1,5 @@
 <!-- ![banner_profile](https://zupimages.net/up/23/01/o7et.png) -->
-<br/><h1 align="center">Salut, moi c'est Skyx ! 👋 <img src="https://img.shields.io/github/followers/SkyX-ID-FR.svg?style=social&label=Follow&maxAge=2592000"/></h1>
+<h1 align="center">Salut, moi c'est Skyx ! 👋 <img src="https://img.shields.io/github/followers/SkyX-ID-FR.svg?style=social&label=Follow&maxAge=2592000"/></h1>
 <p>Passionné de dev, d'INFOSEC et de cyber-sécurité depuis plus de 4 ans maintenant, je collectionne les projets solo ou en équipe. Je me spécialise dans le développement web font-end et back-end mais je touche également au dev côté machine. J'adore les nouvelles technologies comme le web3, l'IA ou encore le machine learning : tout ça me passionne plus que tout ! Si tu veux me contacter, check la dernière section sinon je te dit à bientôt ! 😊<br/>
 </p><br/>
 
