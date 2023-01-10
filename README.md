@@ -26,7 +26,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkyX-ID-FR"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyX-ID-FR"/>
 
-<br/><h1 align="center">📬 · Mes Contacts · 📬</h1>
+<br/><h1 align="center">📬 · Mes contacts · 📬</h1>
 <p>Vous pouvez me contacter à n'importe quel moments, n'importes quelles heures avec les liens suivants (peut-être que je répondrais pas tout de suite si vous avez un décalage horaire avec la France). Les liens sont mis à jour et vérifiés régulièrement pour éviter toutes erreurs 404. 🤗</p><br/>
 
 <p align="center">
